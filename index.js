@@ -27,14 +27,14 @@ app.use('/rules', rules);
 // Optional API status route
 app.get('/api/status', (req, res) => res.json({ status: 'ok' }));
 
-// Serve frontend static files
-const frontendPath = path.join(__dirname, "../frontend/dist");
-app.use(express.static(frontendPath));
+// // Serve frontend static files
+// const frontendPath = path.join(__dirname, "../frontend/dist");
+// app.use(express.static(frontendPath));
 
-// SPA fallback for React/Vite
-app.get("*", (req, res) => {
-  res.sendFile(path.join(frontendPath, "index.html"));
-});
+// // SPA fallback for React/Vite
+// app.get("*", (req, res) => {
+//   res.sendFile(path.join(frontendPath, "index.html"));
+// });
 
 app.listen(PORT, () => {
   console.log(`Observability backend listening on http://localhost:${PORT}`);
