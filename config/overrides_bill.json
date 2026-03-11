@@ -1,0 +1,555 @@
+{
+  "freight_bill": {
+    "series_no": "",
+    "bill_date": "05-03-2026",
+    "po_no": "",
+    "pan_no": "ARMPS3396J",
+    "summary": "Transport of Gypsum",
+    "to_party": {
+      "name": "RAMCO CEMENTS LTD.,",
+      "address": "RR Nagar\nCement Works, Alathiyur, Ariyalur - 621707"
+    },
+    "runs": [
+      {
+        "date": "01-10-2025",
+        "truck_no": "AP09XY0001",
+        "lr_no": "",
+        "dc_qty_mt": 25.3,
+        "gr_qty_mt": 30.4,
+        "rate": 701,
+        "line_total": 21310.399999999998
+      },
+      {
+        "date": "02-10-2025",
+        "truck_no": "AP09XY0002",
+        "lr_no": "",
+        "dc_qty_mt": 25.6,
+        "gr_qty_mt": 30.8,
+        "rate": 702,
+        "line_total": 21621.600000000002
+      },
+      {
+        "date": "03-10-2025",
+        "truck_no": "AP09XY0003",
+        "lr_no": "",
+        "dc_qty_mt": 25.9,
+        "gr_qty_mt": 31.2,
+        "rate": 703,
+        "line_total": 21933.6
+      },
+      {
+        "date": "04-10-2025",
+        "truck_no": "AP09XY0004",
+        "lr_no": "",
+        "dc_qty_mt": 26.2,
+        "gr_qty_mt": 31.6,
+        "rate": 704,
+        "line_total": 22246.4
+      },
+      {
+        "date": "05-10-2025",
+        "truck_no": "AP09XY0005",
+        "lr_no": "",
+        "dc_qty_mt": 26.5,
+        "gr_qty_mt": 32,
+        "rate": 705,
+        "line_total": 22560.0
+      },
+      {
+        "date": "06-10-2025",
+        "truck_no": "AP09XY0006",
+        "lr_no": "",
+        "dc_qty_mt": 26.8,
+        "gr_qty_mt": 32.4,
+        "rate": 706,
+        "line_total": 22874.399999999998
+      },
+      {
+        "date": "07-10-2025",
+        "truck_no": "AP09XY0007",
+        "lr_no": "",
+        "dc_qty_mt": 27.1,
+        "gr_qty_mt": 32.8,
+        "rate": 707,
+        "line_total": 23189.6
+      },
+      {
+        "date": "08-10-2025",
+        "truck_no": "AP09XY0008",
+        "lr_no": "",
+        "dc_qty_mt": 27.4,
+        "gr_qty_mt": 33.2,
+        "rate": 708,
+        "line_total": 23505.600000000002
+      },
+      {
+        "date": "09-10-2025",
+        "truck_no": "AP09XY0009",
+        "lr_no": "",
+        "dc_qty_mt": 27.7,
+        "gr_qty_mt": 33.6,
+        "rate": 709,
+        "line_total": 23822.4
+      },
+      {
+        "date": "11-10-2025",
+        "truck_no": "AP09XY0011",
+        "lr_no": "",
+        "dc_qty_mt": 28.3,
+        "gr_qty_mt": 34.4,
+        "rate": 711,
+        "line_total": 24458.399999999998
+      },
+      {
+        "date": "12-10-2025",
+        "truck_no": "AP09XY0012",
+        "lr_no": "",
+        "dc_qty_mt": 28.6,
+        "gr_qty_mt": 34.8,
+        "rate": 712,
+        "line_total": 24777.6
+      },
+      {
+        "date": "13-10-2025",
+        "truck_no": "AP09XY0013",
+        "lr_no": "",
+        "dc_qty_mt": 28.9,
+        "gr_qty_mt": 35.2,
+        "rate": 713,
+        "line_total": 25097.600000000002
+      },
+      {
+        "date": "14-10-2025",
+        "truck_no": "AP09XY0014",
+        "lr_no": "",
+        "dc_qty_mt": 29.2,
+        "gr_qty_mt": 35.6,
+        "rate": 714,
+        "line_total": 25418.4
+      },
+      {
+        "date": "15-10-2025",
+        "truck_no": "AP09XY0015",
+        "lr_no": "",
+        "dc_qty_mt": 29.5,
+        "gr_qty_mt": 36,
+        "rate": 715,
+        "line_total": 25740.0
+      },
+      {
+        "date": "16-10-2025",
+        "truck_no": "AP09XY0016",
+        "lr_no": "",
+        "dc_qty_mt": 29.8,
+        "gr_qty_mt": 36.4,
+        "rate": 716,
+        "line_total": 26062.399999999998
+      },
+      {
+        "date": "17-10-2025",
+        "truck_no": "AP09XY0017",
+        "lr_no": "",
+        "dc_qty_mt": 30.1,
+        "gr_qty_mt": 36.8,
+        "rate": 717,
+        "line_total": 26385.6
+      },
+      {
+        "date": "18-10-2025",
+        "truck_no": "AP09XY0018",
+        "lr_no": "",
+        "dc_qty_mt": 30.4,
+        "gr_qty_mt": 37.2,
+        "rate": 718,
+        "line_total": 26709.600000000002
+      },
+      {
+        "date": "19-10-2025",
+        "truck_no": "AP09XY0019",
+        "lr_no": "",
+        "dc_qty_mt": 30.7,
+        "gr_qty_mt": 37.6,
+        "rate": 719,
+        "line_total": 27034.4
+      },
+      {
+        "date": "20-10-2025",
+        "truck_no": "AP09XY0020",
+        "lr_no": "",
+        "dc_qty_mt": 31,
+        "gr_qty_mt": 38,
+        "rate": 720,
+        "line_total": 27360.0
+      },
+      {
+        "date": "21-10-2025",
+        "truck_no": "AP09XY0021",
+        "lr_no": "",
+        "dc_qty_mt": 31.3,
+        "gr_qty_mt": 38.4,
+        "rate": 721,
+        "line_total": 27686.399999999998
+      },
+      {
+        "date": "22-10-2025",
+        "truck_no": "AP09XY0022",
+        "lr_no": "",
+        "dc_qty_mt": 31.6,
+        "gr_qty_mt": 38.8,
+        "rate": 722,
+        "line_total": 28013.6
+      },
+      {
+        "date": "23-10-2025",
+        "truck_no": "AP09XY0023",
+        "lr_no": "",
+        "dc_qty_mt": 31.9,
+        "gr_qty_mt": 39.2,
+        "rate": 723,
+        "line_total": 28341.600000000002
+      },
+      {
+        "date": "24-10-2025",
+        "truck_no": "AP09XY0024",
+        "lr_no": "",
+        "dc_qty_mt": 32.2,
+        "gr_qty_mt": 39.6,
+        "rate": 724,
+        "line_total": 28670.4
+      },
+      {
+        "date": "25-10-2025",
+        "truck_no": "AP09XY0025",
+        "lr_no": "",
+        "dc_qty_mt": 32.5,
+        "gr_qty_mt": 40,
+        "rate": 725,
+        "line_total": 29000.0
+      },
+      {
+        "date": "26-10-2025",
+        "truck_no": "AP09XY0026",
+        "lr_no": "",
+        "dc_qty_mt": 32.8,
+        "gr_qty_mt": 40.4,
+        "rate": 726,
+        "line_total": 29330.399999999998
+      },
+      {
+        "date": "27-10-2025",
+        "truck_no": "AP09XY0027",
+        "lr_no": "",
+        "dc_qty_mt": 33.1,
+        "gr_qty_mt": 40.8,
+        "rate": 727,
+        "line_total": 29661.6
+      },
+      {
+        "date": "28-10-2025",
+        "truck_no": "AP09XY0028",
+        "lr_no": "",
+        "dc_qty_mt": 33.4,
+        "gr_qty_mt": 41.2,
+        "rate": 728,
+        "line_total": 29993.600000000002
+      },
+      {
+        "date": "16-02-2026",
+        "truck_no": "TN32J9666",
+        "lr_no": "",
+        "dc_qty_mt": 28.33,
+        "gr_qty_mt": 28.08,
+        "rate": 218,
+        "line_total": 6121.44
+      },
+      {
+        "date": "16-02-2026",
+        "truck_no": "TN73D6555",
+        "lr_no": "",
+        "dc_qty_mt": 28.3,
+        "gr_qty_mt": 27.76,
+        "rate": 218,
+        "line_total": 6051.68
+      },
+      {
+        "date": "16-02-2026",
+        "truck_no": "TN32J9666",
+        "lr_no": "",
+        "dc_qty_mt": 28.85,
+        "gr_qty_mt": 29.68,
+        "rate": 218,
+        "line_total": 6470.24
+      },
+      {
+        "date": "16-02-2026",
+        "truck_no": "TN73D6555",
+        "lr_no": "",
+        "dc_qty_mt": 28.15,
+        "gr_qty_mt": 29.58,
+        "rate": 218,
+        "line_total": 6448.44
+      },
+      {
+        "date": "17-02-2026",
+        "truck_no": "TN32J9666",
+        "lr_no": "",
+        "dc_qty_mt": 29.76,
+        "gr_qty_mt": 29.26,
+        "rate": 218,
+        "line_total": 6378.68
+      },
+      {
+        "date": "17-02-2026",
+        "truck_no": "TN73D6555",
+        "lr_no": "",
+        "dc_qty_mt": 29.27,
+        "gr_qty_mt": 28.78,
+        "rate": 218,
+        "line_total": 6274.04
+      },
+      {
+        "date": "17-02-2026",
+        "truck_no": "TN32J9666",
+        "lr_no": "",
+        "dc_qty_mt": 29.74,
+        "gr_qty_mt": 30,
+        "rate": 218,
+        "line_total": 6540.0
+      },
+      {
+        "date": "17-02-2026",
+        "truck_no": "TN73D6555",
+        "lr_no": "",
+        "dc_qty_mt": 29.87,
+        "gr_qty_mt": 29.82,
+        "rate": 218,
+        "line_total": 6500.76
+      },
+      {
+        "date": "18-02-2026",
+        "truck_no": "TN32J9666",
+        "lr_no": "",
+        "dc_qty_mt": 26.92,
+        "gr_qty_mt": 26.86,
+        "rate": 218,
+        "line_total": 5855.48
+      },
+      {
+        "date": "23-02-2026",
+        "truck_no": "TN32J9666",
+        "lr_no": "",
+        "dc_qty_mt": 28.16,
+        "gr_qty_mt": 27.78,
+        "rate": 218,
+        "line_total": 6056.04
+      },
+      {
+        "date": "23-02-2026",
+        "truck_no": "TN73D6555",
+        "lr_no": "",
+        "dc_qty_mt": 29.54,
+        "gr_qty_mt": 29.18,
+        "rate": 218,
+        "line_total": 6361.24
+      },
+      {
+        "date": "23-02-2026",
+        "truck_no": "TN32J9666",
+        "lr_no": "",
+        "dc_qty_mt": 26.45,
+        "gr_qty_mt": 26.3,
+        "rate": 218,
+        "line_total": 5733.400000000001
+      },
+      {
+        "date": "23-02-2026",
+        "truck_no": "TN73D6555",
+        "lr_no": "",
+        "dc_qty_mt": 28.5,
+        "gr_qty_mt": 28.22,
+        "rate": 218,
+        "line_total": 6151.96
+      },
+      {
+        "date": "24-02-2026",
+        "truck_no": "TN32J9666",
+        "lr_no": "",
+        "dc_qty_mt": 28.48,
+        "gr_qty_mt": 28.44,
+        "rate": 218,
+        "line_total": 6199.92
+      },
+      {
+        "date": "24-02-2026",
+        "truck_no": "TN73D6555",
+        "lr_no": "",
+        "dc_qty_mt": 28.36,
+        "gr_qty_mt": 28.3,
+        "rate": 218,
+        "line_total": 6169.400000000001
+      },
+      {
+        "date": "25-02-2026",
+        "truck_no": "TN32J9666",
+        "lr_no": "",
+        "dc_qty_mt": 28.88,
+        "gr_qty_mt": 28.84,
+        "rate": 218,
+        "line_total": 6287.12
+      },
+      {
+        "date": "25-02-2026",
+        "truck_no": "TN73D6555",
+        "lr_no": "",
+        "dc_qty_mt": 28.67,
+        "gr_qty_mt": 28.34,
+        "rate": 218,
+        "line_total": 6178.12
+      },
+      {
+        "date": "25-02-2026",
+        "truck_no": "TN32J9666",
+        "lr_no": "",
+        "dc_qty_mt": 30.56,
+        "gr_qty_mt": 30.38,
+        "rate": 218,
+        "line_total": 6622.84
+      },
+      {
+        "date": "25-02-2026",
+        "truck_no": "TN73D6555",
+        "lr_no": "",
+        "dc_qty_mt": 29.48,
+        "gr_qty_mt": 29.44,
+        "rate": 218,
+        "line_total": 6417.92
+      },
+      {
+        "date": "26-02-2026",
+        "truck_no": "TN32J9666",
+        "lr_no": "",
+        "dc_qty_mt": 28.24,
+        "gr_qty_mt": 28.26,
+        "rate": 218,
+        "line_total": 6160.68
+      },
+      {
+        "date": "26-02-2026",
+        "truck_no": "TN73D6555",
+        "lr_no": "",
+        "dc_qty_mt": 27.56,
+        "gr_qty_mt": 27.44,
+        "rate": 218,
+        "line_total": 5981.92
+      },
+      {
+        "date": "26-02-2026",
+        "truck_no": "TN32J9666",
+        "lr_no": "",
+        "dc_qty_mt": 28.84,
+        "gr_qty_mt": 28.7,
+        "rate": 218,
+        "line_total": 6256.599999999999
+      },
+      {
+        "date": "26-02-2026",
+        "truck_no": "TN73D6555",
+        "lr_no": "",
+        "dc_qty_mt": 28.02,
+        "gr_qty_mt": 28.74,
+        "rate": 218,
+        "line_total": 6265.32
+      },
+      {
+        "date": "27-02-2026",
+        "truck_no": "TN32J9666",
+        "lr_no": "",
+        "dc_qty_mt": 29.11,
+        "gr_qty_mt": 29.1,
+        "rate": 218,
+        "line_total": 6343.8
+      },
+      {
+        "date": "27-02-2026",
+        "truck_no": "TN73D6555",
+        "lr_no": "",
+        "dc_qty_mt": 28.97,
+        "gr_qty_mt": 28.72,
+        "rate": 218,
+        "line_total": 6260.96
+      },
+      {
+        "date": "27-02-2026",
+        "truck_no": "TN32J9666",
+        "lr_no": "",
+        "dc_qty_mt": 29.72,
+        "gr_qty_mt": 29.66,
+        "rate": 218,
+        "line_total": 6465.88
+      },
+      {
+        "date": "27-02-2026",
+        "truck_no": "TN73D6555",
+        "lr_no": "",
+        "dc_qty_mt": 29.72,
+        "gr_qty_mt": 29.56,
+        "rate": 218,
+        "line_total": 6444.08
+      },
+      {
+        "date": "28-02-2026",
+        "truck_no": "TN32J9666",
+        "lr_no": "",
+        "dc_qty_mt": 26.62,
+        "gr_qty_mt": 26.5,
+        "rate": 218,
+        "line_total": 5777.0
+      },
+      {
+        "date": "28-02-2026",
+        "truck_no": "TN73D6555",
+        "lr_no": "",
+        "dc_qty_mt": 26.65,
+        "gr_qty_mt": 26.4,
+        "rate": 218,
+        "line_total": 5755.2
+      },
+      {
+        "date": "28-02-2026",
+        "truck_no": "TN32J9666",
+        "lr_no": "",
+        "dc_qty_mt": 27.73,
+        "gr_qty_mt": 27.6,
+        "rate": 218,
+        "line_total": 6016.8
+      },
+      {
+        "date": "28-02-2026",
+        "truck_no": "",
+        "lr_no": "",
+        "dc_qty_mt": 10,
+        "gr_qty_mt": 12,
+        "rate": 10,
+        "line_total": 120.0
+      }
+    ],
+    "rate_default": 0,
+    "dc_total": 1661.25,
+    "gr_total": 1836.12,
+    "subtotal": 879472.56,
+    "total": 879472.56,
+    "amount_in_words": "",
+    "company_info": {
+      "name": "Siva Sakthi Roadways",
+      "tagline": "GOODS TRANSPORT AGENCY & WEIGH BRIDGE",
+      "address": "# D-46, CMDA Truck Terminal Complex, Madhavaram, Chennai - 600 110",
+      "phone": "044-2553 0165",
+      "mobile": "094453 84189",
+      "email": "sekars.ssr@gmail.com",
+      "state": "Tamil Nadu",
+      "state_code": "33",
+      "gstin": "33ARMPS3396J2Z4",
+      "pan": "ARMPS3396J"
+    }
+  }
+}

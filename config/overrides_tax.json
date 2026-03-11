@@ -1,0 +1,60 @@
+{
+  "invoice_title": "INVOICE",
+  "invoice_number": "",
+  "invoice_date": "11-03-2026",
+  "due_date": "10-04-2026",
+  "reverse_charge": "YES",
+  "company_info": {
+    "name": "XXXXXXX XXXXXXXX",
+    "tagline": "tagline goes here ------",
+    "address": "Address goes here ------",
+    "phone": "00000 00000",
+    "mobile": "00000 00000",
+    "email": "YYYYYYY@gami.com",
+    "state": "XXXX XXXXX",
+    "state_code": "00",
+    "gstin": "XXXXXXXXXXXXX",
+    "pan": "XXXXXXXXXX",
+    "bank": {
+      "account_no": "11327915122",
+      "name": "STATE BANK OF INDIA",
+      "ifsc": "SBIN0002814",
+      "branch": "YERRAGUNTLA"
+    }
+  },
+  "supply_mode": "Goods Transport Agency Service",
+  "supply_period": "",
+  "place_of_supply": "",
+  "cgst_rate": 6.0,
+  "sgst_rate": 6.0,
+  "igst_rate": 5.0,
+  "cgst_amount": 0.0,
+  "sgst_amount": 0.0,
+  "igst_amount": 0.0,
+  "billing_to": {
+    "client_name": "",
+    "address": "",
+    "gstin": "",
+    "state": "",
+    "state_code": "",
+    "purchase_order_no": "",
+    "spo_no": ""
+  },
+  "payment_terms": "Payment due upon receipt, or as per contract.",
+  "currency_symbol": "Rs",
+  "date_format": "DD-MM-YYYY",
+  "items": [],
+  "subtotal": 0.0,
+  "discount": 0.0,
+  "tax_rate": 0,
+  "tax_amount": 0,
+  "shipping_handling": 0.0,
+  "total": 0.0,
+  "remarks": "Thank you for choosing Your Logistics Co.! Please reference the invoice number for all inquiries.",
+  "terms_and_conditions": [
+    "Notification No 3/2017 dated 19/6/2017 GST is payable under Reverse charge mechanism.",
+    "Interest @ 18% per annum will be charged on delayed payment of bills.",
+    "All disputes are subject to Yerraguntla Jurisdiction only.",
+    "This Invoice details will be uploaded in our GST Returns as applicable."
+  ]
+}
